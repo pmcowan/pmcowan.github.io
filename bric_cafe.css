@@ -1,0 +1,51 @@
+html {
+      height: 100%;
+      background-image: url(http://ecx.images-amazon.com/images/I/51qhwWUdtqL._SY300_.jpg)
+    }
+    body {
+       height: 100%;
+       background-color: ;
+    }
+
+    header {
+        background-color: red ;
+        padding:5px;
+        font-size: 25px ;
+        display: block;
+        width: 500px;
+        margin: 50px
+    }
+    nav {
+        line-height:;
+        background-color: grey ;
+        width:125px;
+        display: inline-block;
+        vertical-align: top;
+    }
+    nav ul {
+        list-style-type: none;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 516px;
+        display: inline-block;
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: ;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        text-align:;
+        padding:5px;
+        display: block;
+    }

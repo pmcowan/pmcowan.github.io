@@ -1,0 +1,69 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       height: 100%;
+       background-color: black;
+       color: white;
+       font-family: "Comic Sans MS", cursive, sans-serif;
+    }
+
+    header {
+        background: url(http://images.wisegeek.com/red-brick-wall.jpg);
+        color: white;
+        padding:50px;
+        margin: auto;
+        border: 5px solid black;
+        display: block;
+        width: 790px;
+
+    }
+    nav {
+        line-height: 2;
+        background: url(http://images.wisegeek.com/red-brick-wall.jpg);
+        width: 250px;
+        display: inline-block;
+        vertical-align: top;
+        font-size: 25;
+        padding: 15px;
+        border: 5px solid black;
+        margin: auto;
+        color: white;
+        position: fixed;
+    }
+    nav ul {
+        list-style-type: none;
+    }
+    a {
+        color: white;
+    }
+    section {
+        width: 1200px;
+        display: inline-block;
+        margin-left: 500px;
+        font-size: 30;
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: ;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        text-align:;
+        padding:5px;
+        display: block;
+    }
+    h3, h4 {
+        color: red;
+    }

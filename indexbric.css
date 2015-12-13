@@ -1,0 +1,58 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       height: 100%;
+    }
+
+    header {
+        background-color: #4d96e0;
+        color: white;
+        padding:10px;
+        margin: 50px;
+        border: 5px solid black;
+        font-size: 30px;
+        display: block;
+        width: 790px;
+    }
+    nav {
+        line-height:6;
+        background-color:#4d96e0;
+        width:125px;
+        display: inline-block;
+        vertical-align: top;
+    }
+    nav ul {
+        list-style-type: circle;
+        list-style-position: outside;
+        list-style-image:url(http://images.cb2.com/is/image/CB2/PartyAnimalsCocktailForksAVF15/$web_zoom$&wid=50&hei=50/1507131710/party-animals-cocktail-forks-set-of-six.jpg)
+    }
+    a {
+        color: #e04d60;
+    }
+    section {
+        width: 516px;
+        display: inline-block;
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:#4d96e0;
+      font-size: 20px;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:#4d96e0;
+        text-align:center;
+        padding:;
+        display: block;
+    }
+
